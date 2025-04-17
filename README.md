@@ -1,17 +1,18 @@
-# AI-Powered-Sign-Language-Video-Generation-from-Speech
-# Speech-to-Sign Language Video Conversion
+# AI-Powered Sign Language Video Generation from Speech
 
-This project is designed to **convert spoken language into sign language videos**, bridging communication gaps for individuals with hearing impairments. It utilizes **speech recognition, natural language processing (NLP), and image processing** to generate sign language visuals.
+This project converts **spoken language into sign language videos** using **AI-powered speech recognition, NLP, and image processing**. It enhances communication accessibility for individuals with hearing impairments.
 
-## Features
-- **Speech Recognition**: Converts spoken words into text using `speech_recognition`.
-- **Text Processing with NLP**: Filters and extracts key words using `nltk`.
-- **Sign Language Image Mapping**: Matches words with corresponding **sign language images** from a dataset.
-- **Video Generation**: Creates a **sign language video** using `OpenCV`.
-- **Audio Integration**: Adds speech narration to the generated video using `gTTS`.
+## 🚀 Features
+- **Speech Recognition**: Converts speech to text using `speech_recognition`.
+- **Natural Language Processing (NLP)**: Extracts key words from speech using `nltk`.
+- **Sign Language Image Mapping**: Finds corresponding sign images for words from a dataset.
+- **Video Generation**: Compiles sign images into a video using `OpenCV`.
+- **Audio Narration**: Uses `gTTS` to generate spoken audio for accessibility.
+- **AI Integration**: Enhances sign translation accuracy using machine learning.
 
-## Installation
-### **1. Clone the repository**
+## 🛠 Installation
+
+### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-repository/sign-language-video.git
-cd sign-language-video
+git clone https://github.com/Sanjay-Program/AI-Powered-Sign-Language-Video-Generation-from-Speech.git
+cd AI-Powered-Sign-Language-Video-Generation-from-Speech
