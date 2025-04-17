@@ -1,0 +1,5 @@
+speechrecognition
+gtts
+nltk
+opencv-python
+moviepy
